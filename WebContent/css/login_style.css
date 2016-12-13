@@ -1,0 +1,61 @@
+body{
+	font-size: 15px;
+	line-height: 22px;
+	color: #666;
+	border-top: 3px solid #eee;
+	padding-top: 37px;
+	-webkit-font-smoothing: antialiased;
+}
+
+.admin-form{
+	max-width: 600px;
+	margin: 50px auto;
+	border: 1px solid #ccc;
+}
+
+.sysname{
+	width: 100%;
+	text-align: right;
+	color: #ccc;
+	letter-spacing: 0;
+	background-image: url(../images/NEWAY_LOGO.png);
+	background-repeat: no-repeat;
+	}
+	
+.group{
+	width: 100%;
+	}
+
+
+.searchRT1{
+	width:20%;
+	float: left;
+	}
+.searchRT2{
+	width:20%;
+	float: left;
+	}
+.searchRT3{
+	width:30%;
+	float: left;
+	}
+.searchRT4{
+	width:10%;
+	float: left;
+	}
+
+.f-control{
+	position:relative;
+	z-index:2;
+	float:left;
+	margin-bottom:0
+	}
+	
+
+	
+
+	
+	
+
+
+
